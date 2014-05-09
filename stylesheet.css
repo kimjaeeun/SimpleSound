@@ -16,6 +16,12 @@ html, body {
 	display:inline-block;
 	margin left: 100px;
 	top: 5%;
-	left: 10%;
+	left: 5%;
 
+}
+
+#draw{
+	position:fixed;
+	top: 80%;
+	left: 5%;
 }
