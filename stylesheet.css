@@ -12,9 +12,9 @@ html, body {
 	background-size: cover;
 }
 .btn {
-	position: absolute;
-	
-	top: 50%;
+	position: relative;
+	display:inline-block;
+	top: 10%;
 	left: 50%;
 
 	top: calc(50% - 137px);
